@@ -7,6 +7,9 @@ Pada UAS di pertemuan ke-16 ini, saya diberikan beberapa tugas oleh dosen saya, 
 
 ![SOAL](https://user-images.githubusercontent.com/72906579/104149906-9b7d0500-540a-11eb-9956-185e2c10cd65.png)
 
+Dan ini adalah hasil package yang sudah saya buat.
+
+![PACKAGE SOAL](https://user-images.githubusercontent.com/72906579/104160519-db041b00-5423-11eb-9966-3e1b6fd81f93.png)
 ________________________________________________________________________________________________________________________
 ### SOAL 1 (Daftar_Nilai)
 Pada soal pertama, dibawah ini saya telah menyantumkan beberapa syntax yang nantinya akan menghasilkan semua modul dari package **Daftar_Nilai** yang diantaranya adalah **(Tambah Data, Ubah Data, Hapus Data, Dan Cari Data)**
