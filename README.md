@@ -363,5 +363,15 @@ Ketiga untuk menghasilkan modul **Hapus Data** kamu perlu memasukan syntax dibaw
 Jadi kesimpulannya jika kalian menggunakan semua syntax yang saya tunjukan diawal dan memasukan ***'H'*** pada kolom yang tersedia dan kalian run, maka akan mendapat output seperti dibawah ini, yang dimana itu adalah hasil untuk menghapus data.
 ![HAPUS DATA](https://user-images.githubusercontent.com/72906579/100826160-502b1a80-348c-11eb-9c71-dff958d13aab.png)
 ________________________________________________________________________________________________________________________
- Untuk mencari data itu sendiri kalian hanya perlu memasukan inisial dari modul tersebut. Misalkan kalian ingin mencari moodul untuk Menghapus Data, maka kamu hanya perlu memasukan huruf **'H'** pada kolom yang tersedia.
+Untuk mencari data itu sendiri kalian hanya perlu memasukan inisial dari modul tersebut. Misalkan kalian ingin mencari moodul untuk Menghapus Data, maka kamu hanya perlu memasukan huruf **'H'** pada kolom yang tersedia.
+________________________________________________________________________________________________________________________
+### SOAL 2 (View_Nilai)
+Untuk menjawab soal nomer 2, kalian hanya perlu mengetikan huruf **"L"** pada kolom yang di sediakan untuk melihat hasil pencarian ataupun daftar nilai. Maka nanti akan mendapatkan hasil output seperti gambar dibawah ini.
+
+![TAMPILKAN DATA](https://user-images.githubusercontent.com/72906579/104158779-a2af0d80-5420-11eb-881f-954be6f2eedd.png)
+________________________________________________________________________________________________________________________
+### SOAL 3 (Input_Nilai)
+Pada soal ke-3 ini, jika kalian ingin menginput suatu data yaitu sama halnya seperti kalian memasukan huruf **"T"** untuk menambahkan suatu data. Dan hasil output yang dihasilkan pun sama yaitu sebagai berikut.
+
+![TAMBAH DATA](https://user-images.githubusercontent.com/72906579/100826168-54573800-348c-11eb-9e26-787e711cfcb0.png)
 ________________________________________________________________________________________________________________________
